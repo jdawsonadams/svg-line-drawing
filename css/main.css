@@ -1,0 +1,17 @@
+.unicorn-horn {
+  animation: …;
+  stroke-dasharray: 11124.371px; /* The length of the stroke */
+  stroke-dashoffset: 11124.371px; /* The length of the stroke */
+}
+
+@@keyframes sliding {
+
+  start {
+    transform: translateX(-2em);
+  }
+
+  end {
+    transform: translateX(-4em);
+  }
+
+}
