@@ -7,7 +7,6 @@ h1 {
   left: 5%;
   font-weight: normal;
   max-width: 4.5em;
-
 }
 
 #narwhal-body {
@@ -68,6 +67,7 @@ h1 {
   to {
     stroke-dashoffset: 0;
   }
+
 }
 
 @keyframes fade-in {
