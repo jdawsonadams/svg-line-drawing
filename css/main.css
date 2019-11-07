@@ -1,8 +1,8 @@
 h1 {
-  font-family: 'Unica One', cursive;
+  font-family: "Unica One", sans-serif;
   animation: fade-in 4s linear forwards;
   opacity: 0;
-  color: #ffff;
+  color: #fff;
   top: 20%;
   left: 5%;
   font-weight: normal;
