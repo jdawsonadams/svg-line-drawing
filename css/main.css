@@ -23,44 +23,44 @@ h1 {
 
 #rainbow-violet {
   animation: sliding .5s linear forwards;
-  stroke-dashoffset:
-  stroke-dasharray:
+  stroke-dashoffset: 1812.502px;
+  stroke-dasharray: 1812.502px;
 }
 
 #rainbow-indigo {
   animation: sliding .5s linear forwards;
-  stroke-dashoffset:
-  stroke-dasharray:
+  stroke-dashoffset: 1917.692;
+  stroke-dasharray: 1917.692;
 }
 
 #rainbow-blue {
   animation: sliding .5s linear forwards;
-  stroke-dashoffset:
-  stroke-dasharray:
+  stroke-dashoffset: 1705.479;
+  stroke-dasharray: 1705.479;
 }
 
 #rainbow-green {
   animation: sliding .5s linear forwards;
-  stroke-dashoffset:
-  stroke-dasharray:
+  stroke-dashoffset: 1596.043px;
+  stroke-dasharray: 1596.043px;
 }
 
 #rainbow-yellow {
   animation: sliding .5s linear forwards;
-  stroke-dashoffset:
-  stroke-dasharray:
+  stroke-dashoffset: 1483.352px;
+  stroke-dasharray: 1483.352px;
 }
 
 #rainbow-orange {
   animation: sliding .5s linear forwards;
-  stroke-dashoffset:
-  stroke-dasharray:
+  stroke-dashoffset: 1366.26px;
+  stroke-dasharray: 1366.26px;
 }
 
 #rainbow-red {
   animation: sliding .5s linear forwards;
-  stroke-dashoffset:
-  stroke-dasharray:
+  stroke-dashoffset: 1243.044px;
+  stroke-dasharray: 1243.044px;
 }
 
 @keyframes sliding {
