@@ -1,53 +1,63 @@
+h1 {
+  font-family: 'Unica One', cursive;
+}
+
 .unicorn-horn {
   animation: …;
   stroke-dasharray: 11124.371px; /* The length of the stroke */
   stroke-dashoffset: 11124.371px; /* The length of the stroke */
 }
 
-@@keyframes sliding {
+}
 
-  start {
-    transform: translateX(-2em);
+
+#narwhal-body {
+
+}
+
+#narwhal-eye {
+
+}
+
+#rainbow-violet {
+
+}
+
+#rainbow-indigo {
+
+}
+
+#rainbow-blue {
+
+}
+
+#rainbow-green {
+
+}
+
+#rainbow-yellow {
+
+}
+
+#rainbow-orange {
+
+}
+
+#rainbow-red {
+
+}
+
+@keyframes sliding {
+
+  to {
+    stroke-dashoffset: 0;
   }
+}
 
-  end {
-    transform: translateX(-4em);
+@keyframes fade-in {
+
+  to {
+    opacity: 1;
   }
-
-}
-
-.narwhal-body {
-
-}
-
-.narwhal-eye {
-
-}
-
-.rainbow-violet {
-
-}
-
-.rainbow-indigo {
-
-}
-
-.rainbow-blue {
-
-}
-
-.rainbow-green {
-
-}
-
-.rainbow-yellow {
-
-}
-
-.rainbow-orange {
-
-}
-
-.rainbow-red {
 
 }
